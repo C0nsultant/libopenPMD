@@ -78,6 +78,7 @@ while those can be build either with or without:
 
 [![Spack Package](https://img.shields.io/badge/spack.io-notyet-yellow.svg)](https://spack.io)
 [![Conda Package](https://img.shields.io/badge/conda.io-notyet-yellow.svg)](https://conda.io)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FC0nsultant%2FlibopenPMD.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FC0nsultant%2FlibopenPMD?ref=badge_shield)
 
 ### Spack
 
@@ -141,3 +142,7 @@ if(openPMD_FOUND)
   target_link_libraries(YourTarget PRIVATE openPMD::openPMD)
 endif(openPMD_FOUND)
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FC0nsultant%2FlibopenPMD.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FC0nsultant%2FlibopenPMD?ref=badge_large)
